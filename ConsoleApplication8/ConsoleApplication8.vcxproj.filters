@@ -47,9 +47,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="ConsoleApplication8.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
     <ClCompile Include="gameboard.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
